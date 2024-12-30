@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/button";
+
 import { getProjects } from "@/sanity/sanity-utils";
 
 export default async function Home() {
